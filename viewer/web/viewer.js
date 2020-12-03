@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: 'Hidden_curriculum_text.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
