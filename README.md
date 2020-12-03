@@ -1,3 +1,5 @@
+##This project was created for educational purpose as a course reading group project. 
+
 # PDF.js viewer with Hypothesis
 
 A web PDF viewer (PDF.js) with Hypothesis added.
