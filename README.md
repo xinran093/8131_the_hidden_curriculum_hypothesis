@@ -1,4 +1,5 @@
-## This project was created for educational purpose as a course reading group project. I adapted the pdf.js-hypothesis code as documented below. 
+### This project was created for educational purpose as a course reading group project. I adapted the pdf.js-hypothesis code as documented below. 
+
 
 
 # PDF.js viewer with Hypothesis
