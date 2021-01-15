@@ -1,4 +1,4 @@
-### This project was created for educational purpose as a course reading group project. I adapted the pdf.js-hypothesis code as documented below. 
+### This project was created for educational purpose as a course reading group project. I adapted the pdf.js-hypothesis code as documented below. The reading pdf with Hypothes.is enabled is host on: https://xinran093.github.io/8131_the_hidden_curriculum_hypothesis/viewer/web/viewer.html
 
 
 
