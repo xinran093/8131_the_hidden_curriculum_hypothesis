@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'Hidden_curriculum_text.pdf',
+    value: 'Syllabus-ci3342-sec001-spring2021-Pazurek.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
